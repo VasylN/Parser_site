@@ -1,6 +1,6 @@
 package myParser.view;
 
-import myParser.model.Controller;
+import myParser.Controller;
 import myParser.vo.Vacancy;
 
 import java.util.List;

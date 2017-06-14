@@ -13,8 +13,9 @@ public class Provider {
     public Provider(Strategy strategy) {
         this.strategy = strategy;
     }
+
     public List<Vacancy> getJavaVacancies(String searchString){
-        return
+        return null;
     }
 
     public void setStrategy(Strategy strategy) {
